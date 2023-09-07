@@ -1,0 +1,25 @@
+.courseContainer {
+    border: .5px solid #505052;
+    border-radius: .5em;
+    width: 250px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.courseGrade {
+    height: 75%;
+    padding: 1em;
+    font-weight: bold;
+    position: absolute;
+}
+
+.courseName {
+    border-top: .5px solid #505052;
+}
+
+.courseImage {
+    opacity: 25%;
+    height: 75%;
+    width: auto;
+}
